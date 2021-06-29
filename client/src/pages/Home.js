@@ -7,7 +7,6 @@ function Home() {
   return (
     <Layout>
       <Products />
-      <Explainer />
     </Layout>
   )
 }

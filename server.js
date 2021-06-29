@@ -3,8 +3,6 @@ const cors = require("cors")
 const products = require("./data-prices.json")
 const productDetails = require("./data-details.json")
 
-const fs = require('fs')
-
 const PORT = 5000
 const app = express()
 

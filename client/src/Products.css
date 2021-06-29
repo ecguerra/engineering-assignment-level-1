@@ -1,0 +1,28 @@
+.card-top {
+    background-color: #639EAA;
+}
+
+.MuiCardHeader-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MuiCardHeader-content span {
+    color: white;
+}
+
+.MuiCardActions-root {
+    display: flex;
+    justify-content: space-between;
+}
+
+.MuiCardActions-root button:hover {
+    background-color: #ddd;
+    transition: .2s;
+}
+
+.MuiGrid-container {
+    display: flex;
+    justify-content: center;
+}
